@@ -20,5 +20,5 @@ h2 {
 
 #tasks .completed {
   text-decoration: line-through #ccc;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
