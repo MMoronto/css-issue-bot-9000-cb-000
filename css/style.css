@@ -19,6 +19,6 @@ h2 {
 }
 
 #tasks .completed {
-  text-shadow: #ccc;
+  text-area: #ccc;
   text-decoration: underline;
 }
