@@ -18,6 +18,6 @@ h2 {
 }
 
 #tasks .completed {
-  text-shadow:#ccc;
+  text-shadow: #ccc;
   text-decoration: underline;
 }
